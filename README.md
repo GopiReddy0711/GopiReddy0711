@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sureddy Gopi Reddy</h1>
+<h1 align="center">Hi 👋, I'm Gopi Reddy</h1>
 <h3 align="center">A passionate DevOps Engineer and Java Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopireddy0711&label=Profile%20views&color=0e75b6&style=flat" alt="gopireddy0711" /> </p>
